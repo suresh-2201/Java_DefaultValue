@@ -1,5 +1,5 @@
 // Java Program to demonstrate use of default values
-import java.io.*;
+
 class Default {
     // static values
     static byte b;
